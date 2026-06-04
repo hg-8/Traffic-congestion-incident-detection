@@ -222,4 +222,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## License
 
-This project is for academic purposes (Semester 6 — Machine Learning Capstone). Feel free to use and adapt with attribution.
+This project is for academic purposes. Feel free to use and adapt with attribution.
