@@ -1,6 +1,5 @@
-# 🚦 AI-Based Traffic Congestion & Incident Detection Using Aerial Imagery
+# 🚦 ML-Based Traffic Congestion & Incident Detection Using Aerial Imagery
 
-> **Capstone Project — Semester 6, Machine Learning**
 
 An end-to-end supervised learning pipeline that detects traffic congestion and road incidents using features derived from aerial camera feeds. The project performs comprehensive Exploratory Data Analysis (EDA), trains and compares six classical ML models, and selects the best-performing classifier through multi-objective (Pareto) analysis.
 
